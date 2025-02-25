@@ -32,5 +32,9 @@ namespace GlassTray
             }
             catch { }
         }
+        private void OnOnTopChecked(object sender, RoutedEventArgs e)
+        {
+            this.Topmost = !this.Topmost;
+        }
     }
 }

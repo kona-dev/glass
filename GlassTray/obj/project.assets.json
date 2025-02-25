@@ -93,23 +93,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Martin\\.nuget\\packages\\": {},
+    "C:\\Users\\jbeck\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Martin\\OneDrive - Neumont College of Computer Science\\Desktop\\Glass\\Glass\\GlassTray\\GlassTray.csproj",
+      "projectUniqueName": "C:\\WeeWooProjects\\glass\\GlassTray\\GlassTray.csproj",
       "projectName": "GlassTray",
-      "projectPath": "C:\\Users\\Martin\\OneDrive - Neumont College of Computer Science\\Desktop\\Glass\\Glass\\GlassTray\\GlassTray.csproj",
-      "packagesPath": "C:\\Users\\Martin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Martin\\OneDrive - Neumont College of Computer Science\\Desktop\\Glass\\Glass\\GlassTray\\obj\\",
+      "projectPath": "C:\\WeeWooProjects\\glass\\GlassTray\\GlassTray.csproj",
+      "packagesPath": "C:\\Users\\jbeck\\.nuget\\packages\\",
+      "outputPath": "C:\\WeeWooProjects\\glass\\GlassTray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Martin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jbeck\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -118,6 +118,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -136,7 +137,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0-windows7.0": {
@@ -162,12 +163,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[9.0.1, 9.0.1]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -176,7 +171,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

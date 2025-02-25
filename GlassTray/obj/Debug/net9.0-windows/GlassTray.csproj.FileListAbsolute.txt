@@ -48,3 +48,29 @@ C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Gla
 C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.pdb
 C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.genruntimeconfig.cache
 C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\ref\GlassTray.dll
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.exe
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.deps.json
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.runtimeconfig.json
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.dll
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.pdb
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\System.Windows.Extensions.dll
+C:\WeeWooProjects\glass\GlassTray\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.AssemblyReference.cache
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\SettingsWindow.g.cs
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\App.g.cs
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray_MarkupCompile.cache
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray_MarkupCompile.lref
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\SettingsWindow.baml
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.g.resources
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.AssemblyInfoInputs.cache
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.AssemblyInfo.cs
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.CoreCompileInputs.cache
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.sourcelink.json
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.Up2Date
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.dll
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\refint\GlassTray.dll
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.pdb
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.genruntimeconfig.cache
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\ref\GlassTray.dll

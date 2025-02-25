@@ -42,13 +42,40 @@
                 <Border  Grid.Row="3" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>
                 <TextBlock Grid.Row="3" FontSize="25" VerticalAlignment="Center" Margin="20,-3,0,0" HorizontalAlignment="Left" Foreground="White" FontWeight="Light" FontFamily="vanadine/#Vanadine" Opacity="1"> P A T T E R N S</TextBlock>
                 
-                 <Border  Grid.Row="4" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>
+                <Border  Grid.Row="4" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>
                 <TextBlock Grid.Row="4" FontSize="25" VerticalAlignment="Center" Margin="20,-3,0,0" HorizontalAlignment="Left" Foreground="White" FontWeight="Light" FontFamily="vanadine/#Vanadine" Opacity="1"> S E T T I N G S</TextBlock>
-                
-                 <Border  Grid.Row="5" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>
-                <TextBlock Grid.Row="5" FontSize="25" VerticalAlignment="Center" Margin="20,-3,0,0" HorizontalAlignment="Left" Foreground="White" FontWeight="Light" FontFamily="vanadine/#Vanadine" Opacity="1"> </TextBlock>
-                
-                 <Border  Grid.Row="6" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>
+
+                <Border Grid.Row="5" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>
+                <CheckBox FlowDirection="RightToLeft" Grid.Row="5" FontSize="15" VerticalAlignment="Center" Margin="20,-3,0,0" HorizontalAlignment="Left" Foreground="White" FontWeight="Light" FontFamily="vanadine/#Vanadine" Content="O N T O P" Checked="OnOnTopChecked" Unchecked="OnOnTopChecked">
+                    <CheckBox.LayoutTransform>
+                        <ScaleTransform ScaleX="1.5" ScaleY="1.5"/>
+                    </CheckBox.LayoutTransform>
+                    <CheckBox.Style>
+                        <Style TargetType="CheckBox">
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="CheckBox">
+                                        <StackPanel Orientation="Horizontal">
+                                            <Border x:Name="CheckBorder" Width="18" Height="18" BorderThickness="0.2" BorderBrush="White" Background="Transparent">
+                                                <Rectangle x:Name="CheckMark" Width="12" Height="12" Fill="White" Visibility="Collapsed"/>
+                                            </Border>
+                                            <ContentPresenter VerticalAlignment="Center" Margin="5,0,0,0"/>
+                                        </StackPanel>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsChecked" Value="True">
+                                                <Setter TargetName="CheckMark" Property="Visibility" Value="Visible"/>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </CheckBox.Style>
+                </CheckBox>
+
+
+
+                <Border  Grid.Row="6" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>
                 <TextBlock Grid.Row="6" FontSize="25" VerticalAlignment="Center" Margin="20,-3,0,0" HorizontalAlignment="Left" Foreground="White" FontWeight="Light" FontFamily="vanadine/#Vanadine" Opacity="1"> </TextBlock>
                 
                  <Border  Grid.Row="7" Background="LightGray" Opacity="0.0" BorderBrush="White" BorderThickness="0,1,0,1"/>

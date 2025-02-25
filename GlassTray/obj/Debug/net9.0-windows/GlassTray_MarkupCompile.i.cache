@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\
+C:\WeeWooProjects\glass\GlassTray\obj\Debug\net9.0-windows\
 GlassTray
 none
 false
-TRACE;DEBUG;NET;NET9_0;NETCOREAPP
-C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\App.xaml
+TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\WeeWooProjects\glass\GlassTray\App.xaml
 1766067489
 
 6-2135815991
-211361703629
+211374007463
 SettingsWindow.xaml;
 
 True
