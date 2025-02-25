@@ -1,0 +1,50 @@
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.exe
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.deps.json
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.runtimeconfig.json
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.dll
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.pdb
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.AssemblyReference.cache
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\SettingsWindow.g.cs
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray_MarkupCompile.cache
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray_MarkupCompile.lref
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\SettingsWindow.baml
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.g.resources
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.AssemblyInfoInputs.cache
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.AssemblyInfo.cs
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.CoreCompileInputs.cache
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.Up2Date
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.dll
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\refint\GlassTray.dll
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.pdb
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.genruntimeconfig.cache
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\obj\Debug\net9.0-windows\ref\GlassTray.dll
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\System.Windows.Extensions.dll
+C:\Users\margolinmartin\source\repos\Glass\GlassTray\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.exe
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.deps.json
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.runtimeconfig.json
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.dll
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\GlassTray.pdb
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\System.Windows.Extensions.dll
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.AssemblyReference.cache
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\SettingsWindow.g.cs
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray_MarkupCompile.cache
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray_MarkupCompile.lref
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\SettingsWindow.baml
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.g.resources
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.AssemblyInfoInputs.cache
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.AssemblyInfo.cs
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.CoreCompileInputs.cache
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.csproj.Up2Date
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.dll
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\refint\GlassTray.dll
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.pdb
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\GlassTray.genruntimeconfig.cache
+C:\Users\Martin\OneDrive - Neumont College of Computer Science\Desktop\Glass\Glass\GlassTray\obj\Debug\net9.0-windows\ref\GlassTray.dll

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Glass\\Glass.csproj",
+        "Action": "Start",
+        "DebugTarget": "Glass"
+      },
+      {
+        "Path": "GlassTray\\GlassTray.csproj",
+        "Action": "Start",
+        "DebugTarget": "GlassTray"
+      }
+    ]
+  }
+]

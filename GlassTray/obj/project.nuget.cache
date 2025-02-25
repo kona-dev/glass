@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEmWKJ7XAnc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Martin\\OneDrive - Neumont College of Computer Science\\Desktop\\Glass\\Glass\\GlassTray\\GlassTray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin\\.nuget\\packages\\hardcodet.notifyicon.wpf\\2.0.1\\hardcodet.notifyicon.wpf.2.0.1.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\system.windows.extensions\\9.0.2\\system.windows.extensions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Martin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.1\\microsoft.netcore.app.host.win-x64.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
